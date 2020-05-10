@@ -1,4 +1,4 @@
-## Multi bruteforce facebook
+## Super mbf facebook
 ```
 $ pkg update && pkg upgrade
 $ pkg install python2 git

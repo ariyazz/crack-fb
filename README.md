@@ -1,4 +1,4 @@
-## Hack facebook mbf vpro
+## Multi bruteforce facebook
 ```
 $ pkg update && pkg upgrade
 $ pkg install python2 git

@@ -1,4 +1,4 @@
-# Ⲥꞅⲁⲥⲕ 𝓕ⲁⲥⲉⲃⲟⲟⲕ
+# Ⲥrack Facebook
 ```
 $ pkg update && pkg upgrade
 $ pkg install python2 git

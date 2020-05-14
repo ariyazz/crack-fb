@@ -1,4 +1,4 @@
-# 𝕮𝖗𝖆𝖈𝖐 𝕱𝖆𝖈𝖊𝖇𝖔𝖔𝖐
+# Hack Facebook
 ```
 $ pkg update && pkg upgrade
 $ pkg install python2 git

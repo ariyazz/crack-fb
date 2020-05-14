@@ -1,9 +1,10 @@
-## Auto crack mbf facebook
-```
-$ pkg update && pkg upgrade
-$ pkg install python2 git
-$ pip2 install requests mechanize
-$ git clone https://github.com/ariyazz/crack-fb
-$ cd crack-fb
-$ python2 fb.py
-```
+# 𝐂𝐫𝐚𝐜𝐤 𝐅𝐁
+<p>
+<b>
+pkg update && pkg upgrade<br>
+pkg install python2 git<br>
+pip2 install requests mechanize<br>
+git clone https://github.com/ariyazz/crack-fb<br>
+cd crack-fb<br>
+python2 fb.py
+<br>

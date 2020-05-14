@@ -1,6 +1,6 @@
 # ᴄʀᴀᴄᴋ ꜰᴀᴄᴇʙᴏᴏᴋ
 ```
-$ ᴘᴋɢ ᴜᴘᴅᴀᴛᴇ && ᴘᴋɢ ᴜᴘɢʀᴀᴅᴇ
+$ pkg update && pkg upgrade
 $ pkg install python2 git
 $ pip2 install requests mechanize
 $ git clone https://github.com/ariyazz/crack-fb
